@@ -1,0 +1,38 @@
+body {
+  color: #C4C4C4;
+}
+
+table {
+  color: black;
+}
+
+p {
+  color: black;
+}
+
+ul {
+  color: black;
+}
+
+ol {
+  color: black;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  width: 8%;
+  color: grey;
+}
+
+h1 {
+  color: #D76E6E;
+}
+
+h2 {
+  color: #D76E6E
+}
+
+h3 {
+  color: #D76E6E;
+}
