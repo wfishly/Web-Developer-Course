@@ -1,0 +1,140 @@
+/* the intro to the website */
+.intro {
+  background-color: #61c7f2;
+  opacity: 80%;
+  padding-top: 40px;
+  position: relative;
+}
+.middle-containter {
+  background-color: #e8e8e8;
+  margin-bottom: 50px;
+}
+.bottom-container {
+  background-color: #61c7f2;
+  padding: 40px;
+}
+
+.contact-me {
+  padding-bottom: 50px;
+}
+
+h1 {
+  margin-top: 50px auto 0 auto;
+  font-family: 'Satisfy', cursive;
+  font-size: 5.62rem;
+  color: #828282;
+}
+
+h2 {
+  color: #61c7f2;
+}
+
+h3 {
+  color: #61c7f2;
+}
+
+body {
+  background-color: #e8e8e8;
+  margin: 0 0 0 0;
+  text-align: center;
+  font-family: 'Inconsolata', monospace;
+}
+
+a {
+  color: #e8e8e8;
+  text-decoration: none;
+}
+
+
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  width: 4%;
+  color: grey;
+}
+
+.copyright {
+  font-size: .75rem;
+  color: #e8e8e8;
+  padding-top: 30px;
+
+}
+
+.name-para {
+  font-family: 'Long Cang', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #828282;
+}
+
+.profile-pic {
+  border-radius: 30%;
+  padding-top: 30px;
+}
+
+.skill-icon {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-icon-1 {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.top-cloud {
+  position: absolute;
+  left: auto;
+}
+
+.bottom-cloud {
+  position: absolute;
+  right: auto;
+}
+
+.twitter-icon {
+  width: 30px;
+}
+
+.linkedin-icon {
+  width: 30px;
+}
+
+.mywebsite {
+  font-size: 1.25rem;
+}
+
+.myButton {
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	background-color:#33bdef;
+	border-radius:6px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#019ad2;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
